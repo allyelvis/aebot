@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@oceanlvr/chatgpt": "^2.0.0",
-    "probot": "^12.2.4",
+    "probot": "^13.0.0",
     "probot-commands-pro": "^1.0.1"
   },
   "devDependencies": {
@@ -30,8 +30,8 @@
     "@rollup/plugin-json": "^5.0.2",
     "@rollup/plugin-node-resolve": "^15.3.1",
     "@rollup/plugin-terser": "^0.2.0",
-    "eslint": "^8.29.0",
-    "jest": "^29.0.0",
+    "eslint": "^9.0.0",
+    "jest": "^30.0.0",
     "nock": "^13.5.6",
     "nodemon": "^2.0.20",
     "rollup": "^3.5.1",
